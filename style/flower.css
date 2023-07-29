@@ -1,0 +1,177 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+.head {
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.head-content {
+    padding: 190px 240px;
+
+}
+
+.head-name {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+
+}
+
+.head-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+
+.btn-pri {
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+}
+
+main {
+    text-align: center;
+}
+
+.main-head {
+    padding-top: 178px;
+}
+
+.flowers {
+    display: flex;
+    justify-content: center;
+    padding: 48px 24px;
+    gap: 24px;
+
+
+}
+
+.f1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 464px;
+    height: 538px;
+
+
+}
+
+.f2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 464px;
+    height: 538px;
+
+}
+
+.f3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 464px;
+    height: 538px;
+    gap: 24px;
+}
+
+.support {
+    display: flex;
+    justify-content: center;
+    gap: 364px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 240px;
+    padding-top: 36px;
+}
+
+.sale {
+    display: flex;
+    justify-content: center;
+    padding-top: 230px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    gap: 136px;
+    margin-top: 128px;
+
+}
+
+.off {
+    color: red;
+}
+
+.sale-content {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+.sale-img {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+.inta-flower {
+    display: flex;
+    margin-top: 128px;
+    gap: 24px;
+
+}
+
+.deals-section {
+
+    background-image: url('../image/Rectangle\ 9.png');
+    margin-top: 100px;
+    align-items: center;
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+
+
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+    padding-top: 48px;
+}
+
+.deals {
+    padding-top: 120px;
+}
+
+.email {
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+}
+
+footer {
+    background-color: black;
+}
+
+footer p {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+footer h1{
+    color: #FFF;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-align: center;
+}
+.foot-flower{
+    color: #E55473;
+}
